@@ -1,0 +1,38 @@
+{
+  "students": [
+    {
+      "name": "John",
+      "age": "20",
+      "city": "New York",
+      "email": "john@example.com",
+      "password": "123456"
+    },
+    {
+      "name": "Jane",
+      "age": "22",
+      "city": "Paris",
+      "email": "jane@example.com",
+      "password": "123456"
+    },
+    {
+      "name": "Jack",
+      "age": "23",
+      "city": "London",
+      "email": "jane@example.com",
+      "password": "123456"
+    }
+  ],
+  "teacher": [
+    {
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "login": [
+    {
+      "username": "",
+      "password": "",
+      "role":" "
+    }
+  ]
+}
